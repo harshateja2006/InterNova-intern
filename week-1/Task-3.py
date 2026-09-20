@@ -1,3 +1,10 @@
+"""Create a calculator program that performs:
+Addition
+Subtraction
+Multiplication
+Division
+Modulus using two numbers entered by the user."""
+
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 

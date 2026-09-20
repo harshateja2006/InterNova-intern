@@ -1,3 +1,11 @@
+"""Write a Python program that:
+Declares variables of different data types:
+Integer
+Float
+String
+Boolean
+Print each variable along with its data type using type()."""
+
 integer_value = 25
 float_value = 85.5
 string_value = "Harsha"

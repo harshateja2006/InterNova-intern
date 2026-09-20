@@ -1,3 +1,15 @@
+"""Mini Python Project
+
+Develop a Student Record Management System using Python.
+
+The program should:
+
+Add student details.
+Display all student records.
+Search a student by name.
+Delete a student record.
+Use lists or dictionaries for data storage."""
+
 students = []
 
 def add_student():

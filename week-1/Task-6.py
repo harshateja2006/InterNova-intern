@@ -1,3 +1,10 @@
+"""Create two user-defined functions:
+
+Function to calculate the square of a number.
+Function to calculate the average of three numbers.
+
+Call both functions with user input."""
+
 def square(number):
     return number * number
 

@@ -1,3 +1,8 @@
+"""Create a Python program that:
+Prints a welcome message.
+Takes your Name, College Name, and Branch as input.
+Displays the entered information in a formatted output."""
+
 print("Welcome to Python Fundamentals for Data Analytics")
 
 name = input("Enter your Name: ")
