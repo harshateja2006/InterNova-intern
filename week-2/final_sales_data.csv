@@ -1,0 +1,6 @@
+Order_ID,Customer,Product,Category,Quantity,Price,City,Payment,Total_Sales
+1001,Rahul,Laptop,Electronics,2,55000,Visakhapatnam,UPI,110000
+1002,Priya,Smartphone,Electronics,1,32000,Hyderabad,Card,32000
+1003,Arjun,Headphones,Accessories,3,2500,Vijayawada,Cash,7500
+1004,Sneha,Keyboard,Accessories,2,1800,Chennai,UPI,3600
+1005,Kiran,Monitor,Electronics,1,18000,Bengaluru,Card,18000
