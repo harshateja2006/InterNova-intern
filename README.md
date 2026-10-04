@@ -1,1 +1,1 @@
-# InterNova-Intership
+# InternNova-Intership
